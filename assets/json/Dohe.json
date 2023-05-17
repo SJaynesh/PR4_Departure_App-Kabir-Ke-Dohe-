@@ -1,0 +1,470 @@
+[
+
+  {
+    "NameEng" : "Kabirdas",
+    "NameHindi" : "कबीरदास ",
+    "NameGujrati" : "કબીરદાસ",
+    "Image" : "",
+    "Dohe" : [
+      {
+        "DoheEng" : "Guru Govind Dou Khade, Kake Laguon Paay.\nBalihari Guru, you got Govind lamp.",
+        "DoheHindi": "गुरु गोविंद दोउ खड़े, काके लागूं पाँय ।\nबलिहारी गुरु आपने, गोविंद दियो मिलाय॥",
+        "DoheGujrati" : "ગેરાની ગુરુ ગોવિંદ દોઉ ઉઘાડે, કાકે લગન પાયે.\nબલિહારી ગુરુ, તમને ગોવિંદ દીપ મળ્યો."
+      },
+      {
+        "DoheEng" : "This body is a storehouse of poison, a mine of Guru's nectar.\nGive your head, even if you get a Guru, then you will live cheaply.",
+        "DoheHindi": "यह तन विष की बेलरी, गुरु अमृत की खान ।\nशीश दियो जो गुरु मिले, तो भी सस्ता जान ।\n",
+        "DoheGujrati" : "આ શરીર ઝેરનો ભંડાર છે, ગુરુના અમૃતની ખાણ છે.\nમાથું આપો, ગુરુ મળે તો પણ સસ્તામાં જીવી જશો."
+      },
+      {
+        "DoheEng" : "Let all the earth work, all the forest kings with the pen.\nLet me touch the seven seas, Guru's qualities should not be written.",
+        "DoheHindi": "सब धरती काजग करू, लेखनी सब वनराज ।\nसात समुद्र की मसि करूँ, गुरु गुण लिखा न जाए ।",
+        "DoheGujrati" : "આખી પૃથ્વીને કામ કરવા દો, બધા વનરાજોને કલમથી.\nસાત સમંદરને સ્પર્શ કરવા દે, ગુરુના ગુણ ન લખાય."
+      },
+      {
+        "DoheEng" : "Speak such words that you lose your mind.\nMake others cool, you yourself become cool.",
+        "DoheHindi": "ऐसी वाणी बोलिए मन का आप खोये ।\nऔरन को शीतल करे, आपहुं शीतल होए ।",
+        "DoheGujrati" : "એવા શબ્દો બોલો કે તમે તમારું મન ગુમાવી બેસો.\nબીજાને ઠંડક આપો, તમે પોતે જ મસ્ત બનો."
+      },
+      {
+        "DoheEng" : "If there is a big fear then what is the fear, like a palm tree.\nPanthi did not get any shade but the fruits were very far away.",
+        "DoheHindi": "बड़ा भया तो क्या भया, जैसे पेड़ खजूर ।\nपंथी को छाया नहीं फल लागे अति दूर ।",
+        "DoheGujrati" : "મોટો ભય હોય તો ડર શેનો, તાડના ઝાડ જેવો.\nપંખીને છાંયો ન મળ્યો પણ ફળો તો બહુ દૂર હતા."
+      },
+      {
+        "DoheEng" : "Keep the slanderers near, let them hide in the courtyard.\nCleanse without soap without water.",
+        "DoheHindi": "निंदक नियेरे राखिये, आँगन कुटी छावायें ।\nबिन पानी साबुन बिना, निर्मल करे सुहाए ।",
+        "DoheGujrati" : "નિંદા કરનારાઓને પાસે રાખો, આંગણામાં સંતાઈ જવા દો.\nપાણી વગર સાબુ વગર સાફ કરો."
+      },
+      {
+        "DoheEng" : "Whatever bad I went to see, I did not find anyone bad.\nWhatever your mind saw, no one is worse than me.",
+        "DoheHindi": "बुरा जो देखन मैं चला, बुरा न मिलिया कोय ।\nजो मन देखा आपना, मुझ से बुरा न कोय ।",
+        "DoheGujrati" : "હું ગમે તેટલું ખરાબ જોવા ગયો, મને કોઈ ખરાબ ન લાગ્યું.\nતારું મન જે જોયું, મારાથી ખરાબ કોઈ નથી."
+      },
+      {
+        "DoheEng" : "Everyone remembers in sorrow, no one does in happiness.\nThe one who remembers in happiness, then why should there be sorrow.",
+        "DoheHindi": "दुःख में सुमिरन सब करे, सुख में करे न कोय ।\nजो सुख में सुमिरन करे, तो दुःख काहे को होय ।",
+        "DoheGujrati" : "દુ:ખમાં બધા યાદ કરે છે, સુખમાં કોઈ નથી કરતું.\nજે સુખમાં યાદ કરે છે, તો પછી દુ:ખ કેમ થાય."
+      },
+      {
+        "DoheEng" : "Mati says to Kumar, why do you make me cry.\nA day will come like this, I will cry to you.",
+        "DoheHindi": "माटी कहे कुमार से, तू क्या रोंदे मोहे ।\nएक दिन ऐसा आएगा, मैं रोंदुंगी तोहे ।",
+        "DoheGujrati" : "મતિ કુમારને કહે છે, તમે મને કેમ રડાવો છો.\nએક દિવસ એવો આવશે, હું તને રડીશ."
+      },
+      {
+        "DoheEng" : "Water banana bubbled, this is the caste of the mind.\nIt will be hidden on seeing, like the whole morning.",
+        "DoheHindi": "पानी केरा बुदबुदा, अस मानस की जात ।\nदेखत ही छुप जाएगा है, ज्यों सारा परभात ।",
+        "DoheGujrati" : "પાણી કેળા પરપોટા, આ છે મનની જાતિ.\nજોતાં જ છુપાઈ જશે, આખી સવારની જેમ."
+      },
+      {
+        "DoheEng" : "Seeing the moving mill, Kabira wept.\nIn the middle of two bridges, there should be no one left intact.",
+        "DoheHindi": "चलती चक्की देख के, दिया कबीरा रोये ।\nदो पाटन के बीच में, साबुत बचा न कोए ।",
+        "DoheGujrati" : "ચાલતી મિલ જોઈને કબીરા રડી પડી.\nબે પુલની વચ્ચોવચ, કોઈને અકબંધ ન રાખવું જોઈએ."
+      },
+      {
+        "DoheEng" : "As sesame is oil, as is fire in flint.\nYour Sai is in you only, wake up if you can.",
+        "DoheHindi": "ज्यों तिल माहि तेल है, ज्यों चकमक में आग ।\nतेरा साईं तुझ ही में है, जाग सके तो जाग ।",
+        "DoheGujrati" : "જેમ તલ તેલ છે, તેમ ચકમકમાં અગ્નિ છે.\nતમારા સાંઈ તમારામાં જ છે, જો તમે કરી શકો તો જાગો."
+      }
+    ],
+    "Gist" : [
+      {
+        "GistEnd" : "Kabir Das ji says in this couplet that if both Guru and God are standing together in front of us, then whose feet will you touch?\n Guru has told us the way to meet God with his knowledge only, so the glory of Guru is above God and we should touch the feet of Guru.",
+        "GistHindi" : "कबीर दास जी इस दोहे में कहते हैं कि अगर हमारे सामने गुरु और भगवान दोनों एक साथ खड़े हों तो आप किसके चरण स्पर्श करेंगे? \n गुरु ने अपने ज्ञान से ही हमें भगवान से मिलने का रास्ता बताया है इसलिए गुरु की महिमा भगवान से भी ऊपर है और हमें गुरु के चरण स्पर्श करने चाहिए।",
+        "GistGujrati" : "કબીરદાસજી આ પદમાં કહે છે કે જો ગુરુ અને ભગવાન બંને આપણી સામે એકસાથે ઊભા હોય તો તમે કોના ચરણ સ્પર્શ કરશો?\n ગુરુએ પોતાના જ્ઞાનથી જ ભગવાનને મળવાનો માર્ગ કહ્યો છે તેથી ગુરુનો મહિમા ભગવાનથી ઉપર છે અને આપણે ગુરુના ચરણ સ્પર્શ કરવા જોઈએ."
+      },
+      {
+        "GistEnd" : "Kabir Das ji says that this body is full of poison and Guru is the mine of nectar.\n If you get a true guru in return of giving your head, then this deal is also very cheap.",
+        "GistHindi" : "कबीर दास जी कहते हैं कि यह जो शरीर है वो विष जहर से भरा हुआ है और गुरु अमृत की खान हैं।\n अगर अपना शीशसर देने के बदले में आपको कोई सच्चा गुरु मिले तो ये सौदा भी बहुत सस्ता है।",
+        "GistGujrati" : "કબીરદાસજી કહે છે કે આ શરીર ઝેરથી ભરેલું છે અને ગુરુ અમૃતની ખાણ છે.\n જો તમને તમારું માથું આપવાના બદલામાં સાચો ગુરુ મળી જાય, તો આ સોદો પણ ખૂબ સસ્તો છે."
+      },
+      {
+        "GistEnd" : "Even if I make a paper as big as this whole earth and make a pen of all the trees of the world and make ink equal to the seven oceans, it is not possible to write down the qualities of the Guru.",
+        "GistHindi" : "अगर मैं इस पूरी धरती के बराबर बड़ा कागज बनाऊं और दुनियां के सभी वृक्षों की कलम बना लूँ और सातों समुद्रों के बराबर स्याही बना लूँ तो भी गुरु के गुणों को लिखना संभव नहीं है।",
+        "GistGujrati" : "જો હું આ આખી પૃથ્વી જેટલો મોટો કાગળ બનાવી લઉં અને જગતના તમામ વૃક્ષોની કલમ બનાવીને સાત સમંદર જેટલી શાહી બનાવી લઉં તો પણ ગુરુના ગુણો લખવા શક્ય નથી."
+      },
+      {
+        "GistEnd" : "Kabir Das ji says that a person should speak such a language which is very pleasing to the heart of the listener.\n Such language not only brings happiness to other people, but also one experiences great joy with it.",
+        "GistHindi" : "कबीर दास जी कहते हैं कि इंसान को ऐसी भाषा बोलनी चाहिए जो सुनने वाले के मन को बहुत अच्छी लगे। ऐसी भाषा दूसरे लोगों को तो सुख पहुँचाती ही है,\n इसके साथ खुद को भी बड़े आनंद का अनुभव होता है।",
+        "GistGujrati" : "કબીર દાસજી કહે છે કે વ્યક્તિએ એવી ભાષા બોલવી જોઈએ જે સાંભળનારના હૃદયને ખૂબ જ પસંદ પડે.\n આવી ભાષા અન્ય લોકો માટે માત્ર આનંદ જ નથી લાવે છે, પરંતુ તેનાથી વ્યક્તિ ખૂબ આનંદ પણ અનુભવે છે."
+      },
+      {
+        "GistEnd" : "Kabir Das ji says that the date palm tree is undoubtedly very big,\n but neither does it give shade to anyone and the fruit also grows at a very far height. \nSimilarly, if you are not able to do good to anyone, then there is no use in being so big.",
+        "GistHindi" : "कबीर दास जी कहते हैं कि खजूर का पेड़ बेशक बहुत बड़ा होता है \nलेकिन ना तो वो किसी को छाया देता है और फल भी बहुत दूरऊँचाई  पे लगता है।\n इसी तरह अगर आप किसी का भला नहीं कर पा रहे तो ऐसे बड़े होने से भी कोई फायदा नहीं है।",
+        "GistGujrati" : "કબીર દાસજી કહે છે કે ખજૂરનું વૃક્ષ નિઃશંકપણે ખૂબ મોટું છે,\n પરંતુ તે ન તો કોઈને છાંયડો આપે છે અને ફળ પણ ખૂબ ઊંચાઈએ ઉગે છે.\n તેવી જ રીતે, જો તમે કોઈનું ભલું કરી શકતા નથી, તો પછી આટલા મોટા થવાનો કોઈ ફાયદો નથી."
+      },
+      {
+        "GistEnd" : "Kabir Das ji says that people who criticize others should always be kept close to them,\n because if such people stay with you, then they will keep telling you your evils and you can easily rectify your mistakes.\n That's why Kabir ji has said that cynics make a person's nature cold.",
+        "GistHindi" : "कबीर दास जी कहते हैं कि निंदकहमेशा दूसरों की बुराइयां करने वाले लोगों को हमेशा अपने पास रखना चाहिए,\n क्यूंकि ऐसे लोग अगर आपके पास रहेंगे तो आपकी बुराइयाँ आपको बताते रहेंगे और आप आसानी से अपनी गलतियां सुधार सकते हैं। इसीलिए कबीर जी ने कहा है\n कि निंदक लोग इंसान का स्वभाव शीतल बना देते हैं।",
+        "GistGujrati" : "કબીર દાસજી કહે છે કે જે લોકો બીજાની ટીકા કરે છે તેમને હંમેશા તેમની નજીક રાખવા જોઈએ,\n કારણ કે જો આવા લોકો તમારી સાથે રહેશે, તો તેઓ તમને તમારી ખરાબીઓ કહેતા રહેશે અને તમે તમારી ભૂલોને સરળતાથી સુધારી શકો છો. \nતેથી જ કબીરજીએ કહ્યું છે કે નિંદા માણસના સ્વભાવને ઠંડો બનાવી દે છે."
+      },
+      {
+        "GistEnd" : "Kabir Das ji says that all my life I was engaged in seeing the evils of others,\n but when I looked into my own mind, I found that there is no worse person than me.\n I am the most selfish and bad person, that is, we see a lot of bad things in others,\n but if you look inside yourself, you will find that there is no worse person than us.",
+        "GistHindi" : "कबीर दास जी कहते हैं कि मैं सारा जीवन दूसरों की बुराइयां देखने में लगा रहा लेकिन जब मैंने खुद अपने मन में झाँक कर देखा तो पाया कि मुझसे बुरा कोई इंसान नहीं है।\n मैं ही सबसे स्वार्थी और बुरा हूँ भावार्थात हम लोग दूसरों की बुराइयां बहुत देखते हैं\n लेकिन अगर आप खुद के अंदर झाँक कर देखें तो पाएंगे कि हमसे बुरा कोई इंसान नहीं है।",
+        "GistGujrati" : "કબીરદાસજી કહે છે કે આખી જીંદગી હું બીજાની બુરાઈ જોવામાં જ વ્યસ્ત રહ્યો, \nપણ જ્યારે મેં મારા મનમાં ડોકિયું કર્યું તો ખબર પડી કે મારાથી ખરાબ કોઈ વ્યક્તિ નથી.\n હું સૌથી વધુ સ્વાર્થી અને ખરાબ વ્યક્તિ છું, એટલે કે આપણે બીજામાં ઘણી બધી ખરાબ બાબતો જોતા હોઈએ છીએ, \nપરંતુ જો તમે તમારી અંદર જોશો તો ખબર પડશે કે આપણાથી ખરાબ વ્યક્તિ કોઈ નથી."
+      },
+      {
+        "GistEnd" : "Everyone remembers God in sorrow but everyone forgets God in happiness.\n If you remember God even in happiness, then sorrow will never come.",
+        "GistHindi" : "दुःख में हर इंसान ईश्वर को याद करता है लेकिन सुख में सब ईश्वर को भूल जाते हैं। अगर सुख में भी ईश्वर को याद करो तो दुःख कभी आएगा ही नहीं।",
+        "GistGujrati" : "દરેક વ્યક્તિ દુ:ખમાં ભગવાનને યાદ કરે છે, પરંતુ સુખમાં ભગવાનને ભૂલી જાય છે.\n સુખમાં પણ ભગવાનને યાદ કરશો તો દુ:ખ ક્યારેય નહીં આવે."
+      },
+      {
+        "GistEnd" : "When the potter was trampling the clay to make the pot,\n the clay says to the potter – You are trampling me, \na day will come when you will merge into this clay and I will trample you.",
+        "GistHindi" : "जब कुम्हार बर्तन बनाने के लिए मिटटी को रौंद रहा था,\n तो मिटटी कुम्हार से कहती है – तू मुझे रौंद रहा है,\n एक दिन ऐसा आएगा जब तू इसी मिटटी में विलीन हो जायेगा और मैं तुझे रौंदूंगी।",
+        "GistGujrati" : "કુંભાર જ્યારે વાસણ બનાવવા માટે માટીને કચડી રહ્યો હતો,\n ત્યારે માટીએ કુંભારને કહ્યું - તમે મને કચડી રહ્યા છો,\n એક દિવસ એવો આવશે જ્યારે તમે આ માટીમાં ભળી જશો અને હું તમને કચડી નાખીશ."
+      },
+      {
+        "GistEnd" : "Kabir Das ji says that human desires are like a water bubble which forms in a moment and ends in a moment. \nThe day when you will have the darshan of the true Guru, on that day all this illusion and all darkness will be hidden.",
+        "GistHindi" : "कबीर दास जी कहते हैं कि इंसान की इच्छाएं एक पानी के बुलबुले के समान हैं जो पल भर में बनती हैं और पल भर में खत्म। \nजिस दिन आपको सच्चे गुरु के दर्शन होंगे उस दिन ये सब मोह माया और सारा अंधकार छिप जायेगा।",
+        "GistGujrati" : "કબીર દાસજી કહે છે કે મનુષ્યની ઈચ્છાઓ પાણીના પરપોટા જેવી છે જે એક ક્ષણમાં બને છે અને ક્ષણમાં સમાપ્ત થઈ જાય છે.\n જે દિવસે તમને સાચા ગુરુના દર્શન થશે, તે દિવસે આ બધો ભ્રમ અને બધો અંધકાર છુપાઈ જશે."
+      },
+      {
+        "GistEnd" : "Seeing the moving mill, Kabir Das ji's tears come out and \nhe says that there is nothing whole between the millstones.",
+        "GistHindi" : "चलती चक्की को देखकर कबीर दास जी के आँसू निकल आते हैं और\n वो कहते हैं कि चक्की के  पाटों के बीच में कुछ साबुत नहीं बचता।",
+        "GistGujrati" : "ચાલતી મિલને જોઈને કબીરદાસજીના આંસુ નીકળી જાય છે અને\n તેઓ કહે છે કે મિલના પથ્થરો વચ્ચે આખું કંઈ નથી."
+      },
+      {
+        "GistEnd" : "Kabir Das ji says that just like there is oil inside a sesame seed,\n and there is light inside a fire, in the same way our\n God is present inside us, if you can find it, then find it.",
+        "GistHindi" : "कबीर दास जी कहते हैं जैसे तिल के अंदर तेल होता है, और आग के अंदर रौशनी होती है ठीक वैसे ही हमारा ईश्वर हमारे अंदर ही विद्धमान है, अगर ढूंढ सको तो ढूढ लो।",
+        "GistGujrati" : "કબીરદાસજી કહે છે કે જેમ તલની અંદર તેલ હોય છે, અને અગ્નિની અંદર પ્રકાશ હોય છે,\n તેવી જ રીતે આપણો ભગવાન આપણી અંદર હાજર છે, જો તમે તેને શોધી શકો તો શોધો."
+      }
+    ]
+  },
+
+  {
+    "NameEng" : "Rahimdas",
+    "NameHindi" : "रहीमदास",
+    "NameGujrati" : "રહીમદાસ",
+    "Image" : "",
+    "Dohe" : [
+      {
+        "DoheEng" : "There is no point crying over spilt milk.\nRahiman breaks the milk, there is no butter on the forehead.",
+        "DoheHindi": "बिगरी बात बने नहीं, लाख करो किन कोय.\nरहिमन फाटे दूध को, मथे न माखन होय.",
+        "DoheGujrati" : "છલકાયેલા દૂધ પર રડવાનો કોઈ અર્થ નથી.\nરહીમાન દૂધ તોડે છે, કપાળે માખણ નથી."
+      },
+      {
+        "DoheEng" : "Rahiman the thread of love, don't break it.\nIf broken, don't tie it again, let the knot go away.",
+        "DoheHindi": "रहिमन धागा प्रेम का, मत तोरो चटकाय.\nटूटे पे फिर ना जुरे, जुरे गाँठ परी जाय.",
+        "DoheGujrati" : "રહીમાન પ્રેમનો દોરો, તેને તોડશો નહીં.\nજો તૂટી જાય, તો તેને ફરીથી બાંધશો નહીં, ગાંઠને દૂર જવા દો."
+      },
+      {
+        "DoheEng" : "See Rahiman to elder, don't give short Dari.\nWherever the needle comes in handy, where should the sword go?",
+        "DoheHindi": "रहिमन देखि बड़ेन को, लघु न दीजिए डारि.\nजहां काम आवे सुई, कहा करे तरवारि.",
+        "DoheGujrati" : "રહેમાનને વડીલ જુઓ, ટૂંકી ડારી ન આપો.\nજ્યાં સોય હાથમાં આવે ત્યાં તલવાર ક્યાં જાય?"
+      },
+      {
+        "DoheEng" : "The one who is Rahim, the best nature, can do bad company.\nSandalwood poison does not spread, Bhujang keeps wrapped.",
+        "DoheHindi": "जो रहीम उत्तम प्रकृति, का करी सकत कुसंग.\nचन्दन विष व्यापे नहीं, लिपटे रहत भुजंग.",
+        "DoheGujrati" : "જે રહીમ છે, શ્રેષ્ઠ સ્વભાવ છે, તે ખરાબ સંગત કરી શકે છે.\nચંદનનું ઝેર ફેલાતું નથી, ભુજંગ વીંટાળીને રાખે છે."
+      },
+      {
+        "DoheEng" : "Celebrate the angry Sujan, who gets angry hundred times.\nRahiman phir phir poye, tute mukta haar.",
+        "DoheHindi": "रूठे सुजन मनाइए, जो रूठे सौ बार.\nरहिमन फिरि फिरि पोइए, टूटे मुक्ता हार.",
+        "DoheGujrati" : "ક્રોધિત સુજનની ઉજવણી કરો, જે સો વખત ગુસ્સે થાય છે.\nરહીમાન ફિર ફિર પોયે, તુટે મુક્ત હાર."
+      },
+      {
+        "DoheEng" : "Those who call the elder as small, no Rahim will decrease.\nSay Girdhar Muralidhar, I don't accept any sorrow.",
+        "DoheHindi": "जो बड़ेन को लघु कहें, नहीं रहीम घटी जाहिं.\nगिरधर मुरलीधर कहें, कछु दुःख मानत नाहिं.",
+        "DoheGujrati" : "જે મોટાને નાનો કહે છે, કોઈ રહીમ ઘટશે નહીં.\nકહે ગિરધર મુરલીધર, હું કોઈ દુ:ખ સ્વીકારતો નથી."
+      },
+      {
+        "DoheEng" : "Be patient as you are in other countries, this body is somewhere else.\nThere is a layer on the earth itself, cold, hot and wet.",
+        "DoheHindi": "जैसी परे सो सहि रहे, कहि रहीम यह देह.\nधरती ही पर परत है, सीत घाम औ मेह.",
+        "DoheGujrati" : "જેમ તમે બીજા દેશોમાં છો તેમ ધીરજ રાખો, આ શરીર બીજે ક્યાંક છે.\nપૃથ્વી પર જ એક સ્તર છે, ઠંડુ, ગરમ અને ભીનું."
+      },
+      {
+        "DoheEng" : "Cucumber was cut from the head, Maliyat planted it.\nRahiman Karue Mukhan, this is the punishment needed.",
+        "DoheHindi": "खीरा सिर ते काटि के, मलियत लौंन लगाय.\nरहिमन करुए मुखन को, चाहिए यही सजाय.",
+        "DoheGujrati" : "માથા પરથી કાકડી કાપી હતી, મલિયતે તેને વાવી હતી.\nરહીમાન કરો મુખાન, આ જ સજા જોઈએ."
+      },
+      {
+        "DoheEng" : "Both Rahiman are from the same, they don't speak.\nKak Pik is the layer of life, Ritu is the month of spring.",
+        "DoheHindi": "दोनों रहिमन एक से, जों लों बोलत नाहिं.\nजान परत हैं काक पिक, रितु बसंत के माहिं.",
+        "DoheGujrati" : "રહીમાન બંને એક જ છે, તેઓ બોલતા નથી.\nકાક પીક એ જીવનનું પડ છે, રીતુ એ વસંતનો મહિનો છે."
+      },
+      {
+        "DoheEng" : "Rahiman Ansuva Nayan Dhari, let's express our sorrow,\nWherever you go, don't tell any difference.",
+        "DoheHindi": "रहिमन अंसुवा नयन ढरि, जिय दुःख प्रगट करेइ,\nजाहि निकारौ गेह ते, कस न भेद कहि देइ.",
+        "DoheGujrati" : "રહીમાન અનસુવા નયન ધારી, ચાલો આપણું દુ:ખ વ્યક્ત કરીએ,\nતમે જ્યાં જાઓ ત્યાં કોઈ ફરક ન જણાવો."
+      }
+
+    ],
+    "Gist" : [
+      {
+        "GistEnd" : "Man should behave thoughtfully, because for some reason if things go wrong, \nthen it becomes difficult to make them, like if milk curdles once,\n even after a million attempts, butter cannot be extracted from it.",
+        "GistHindi" : "मनुष्य को सोचसमझ कर व्यवहार करना चाहिए,क्योंकि किसी कारणवश यदि बात बिगड़ जाती है तो फिर उसे बनाना कठिन होता है,\n जैसे यदि एकबार दूध फट गया तो लाख कोशिश करने पर भी उसे मथ कर मक्खन नहीं निकाला जा सकेगा.",
+        "GistGujrati" : "માણસે સમજી-વિચારીને વર્તવું જોઈએ, કારણ કે કોઈ કારણસર જો કંઈ ખોટું થઈ જાય તો તેને બનાવવું અઘરું થઈ જાય છે,\n જેમ કે દૂધનું દહીં એક વાર, લાખ પ્રયત્નો પછી પણ તેમાંથી માખણ કાઢી શકાતું નથી."
+      },
+      {
+        "GistEnd" : "Rahim says that the relation of love is delicate. It is not appropriate to break it with a jerk.\n If this thread of love is once broken then it is difficult to reunite it.\n And even if it is found, there is a knot in the middle of the broken threads.",
+        "GistHindi" : "रहीम कहते हैं कि प्रेम का नाता नाज़ुक होता है. इसे झटका देकर तोड़ना उचित नहीं होता.\n यदि यह प्रेम का धागा एक बार टूट जाता है तो फिर इसे मिलाना कठिन होता है\n और यदि मिल भी जाए तो टूटे हुए धागों के बीच में गाँठ पड़ जाती है.",
+        "GistGujrati" : "રહીમ કહે છે કે પ્રેમનો સંબંધ નાજુક હોય છે. તેને ધક્કો મારીને તોડવો યોગ્ય નથી.\n જો પ્રેમનો આ દોરો એક વખત તૂટી જાય તો તેને ફરી જોડવો મુશ્કેલ છે.\n અને જો તે મળી જાય તો પણ, તૂટેલા દોરાની વચ્ચે એક ગાંઠ છે."
+      },
+      {
+        "GistEnd" : "Rahim says that a small thing should not be thrown away after seeing the big thing.\n Where a small needle is useful, what can a poor sword do?",
+        "GistHindi" : "रहीम कहते हैं कि बड़ी वस्तु को देख कर छोटी वस्तु को फेंक नहीं देना चाहिए.\n जहां छोटी सी सुई काम आती है, वहां तलवार बेचारी क्या कर सकती है?",
+        "GistGujrati" : "રહીમ કહે છે કે નાની વસ્તુને મોટી વસ્તુ જોઈને ફેંકી ન દેવી જોઈએ.\n જ્યાં એક નાની સોય ઉપયોગી છે, ત્યાં ગરીબ તલવાર શું કરી શકે?"
+      },
+      {
+        "GistEnd" : "Rahim says that those who are good-natured people, even bad company cannot spoil them.\nPoisonous snakes are not able to have any poisonous effect on the sandalwood tree even if it is wrapped around it.",
+        "GistHindi" : "रहीम कहते हैं कि जो अच्छे स्वभाव के मनुष्य होते हैं,उनको बुरी संगति भी बिगाड़ नहीं पाती.\nजहरीले सांप चन्दन के वृक्ष से लिपटे रहने पर भी उस पर कोई जहरीला प्रभाव नहीं डाल पाते.",
+        "GistGujrati" : "રહીમ કહે છે કે જે લોકો સારા સ્વભાવના હોય છે, ખરાબ સંગત પણ તેમનું બગાડી શકતી નથી.\nઝેરી સાપ ચંદનના ઝાડની આસપાસ વીંટળાયેલા હોય તો પણ તેની પર કોઈ ઝેરી અસર કરી શકતા નથી."
+      },
+      {
+        "GistEnd" : "Even if your beloved gets angry a hundred times, even then the angry beloved should be persuaded.\nBecause if the garland of pearls breaks, then those pearls should be threaded again and again.",
+        "GistHindi" : "यदि आपका प्रिय सौ बार भी रूठे, तो भी रूठे हुए प्रिय को मनाना चाहिए,\nक्योंकि यदि मोतियों की माला टूट जाए तो उन मोतियों को बार बार धागे में पिरो लेना चाहिए.",
+        "GistGujrati" : "જો તમારો પ્રિયતમ સો વખત ગુસ્સે થાય તો પણ નારાજ પ્રિયતમને મનાવી લેવો જોઈએ.\nકારણ કે જો મોતીની માળા તૂટે તો એ મોતી ફરી ફરીને દોરવા જોઈએ."
+      },
+      {
+        "GistEnd" : "Rahim says that the greatness of the elder does not decrease by calling the elder younger.\nBecause calling Giridhar (Krishna) Murlidhar does not reduce his glory.",
+        "GistHindi" : "रहीम कहते हैं कि बड़े को छोटा कहने से बड़े का बड़प्पन नहीं घटता, \nक्योंकि गिरिधर (कृष्ण) को मुरलीधर कहने से उनकी महिमा में कमी नहीं होती.",
+        "GistGujrati" : "રહીમ કહે છે કે મોટાને નાનો કહેવાથી વડીલની મહાનતા ઘટતી નથી.\nકારણ કે ગિરધર (કૃષ્ણ)ને મુરલીધર કહેવાથી તેમનો મહિમા ઓછો થતો નથી."
+      },
+      {
+        "GistEnd" : "Rahim says that as it falls on this body – it should be tolerated, because on this earth only winter,\n It is hot and it rains. That is, as the earth bears cold, sun and rain,\n Similarly, the body should bear happiness and sorrow.",
+        "GistHindi" : "रहीम कहते हैं कि जैसी इस देह पर पड़ती है – सहन करनी चाहिए, क्योंकि इस धरती पर ही सर्दी,\n गर्मी और वर्षा पड़ती है. अर्थात जैसे धरती शीत, धूप और वर्षा सहन करती है,\n उसी प्रकार शरीर को सुख-दुःख सहन करना चाहिए.",
+        "GistGujrati" : "રહીમ કહે છે કે જેમ તે આ શરીર પર પડે છે - તેને સહન કરવું જોઈએ, કારણ કે આ પૃથ્વી પર ફક્ત શિયાળો જ\n તે ગરમ છે અને વરસાદ પડે છે. એટલે કે, જેમ પૃથ્વી ઠંડી, સૂર્ય અને વરસાદ સહન કરે છે,\n તેવી જ રીતે શરીરે સુખ અને દુ:ખ સહન કરવું જોઈએ."
+      },
+      {
+        "GistEnd" : "To remove the bitterness of cucumber, after cutting its upper end, it is rubbed with salt.\n Rahim says that for the one with a bitter mouth, this punishment is right for the one who speaks bitter words.",
+        "GistHindi" : "खीरे का कडुवापन दूर करने के लिए उसके ऊपरी सिरे को काटने के बाद नमक लगा कर घिसा जाता है.\n रहीम कहते हैं कि कड़ुवे मुंह वाले के लिए – कटु वचन बोलने वाले के लिए यही सजा ठीक है.",
+        "GistGujrati" : "કાકડીની કડવાશ દૂર કરવા માટે, તેના ઉપરના છેડાને કાપ્યા પછી, તેને મીઠું વડે ઘસવામાં આવે છે.\n રહીમ કહે છે કે કડવું મોઢું બોલનાર માટે આ સજા યોગ્ય છે."
+      },
+      {
+        "GistEnd" : "The crow and the cuckoo are similar in colour. They are not known until they speak\n Pati. But when spring comes, the difference between the two becomes clear by the melodious voice of the cuckoo.",
+        "GistHindi" : "कौआ और कोयल रंग में एक समान होते हैं। जब तक ये बोलते नहीं तब तक इनकी पहचान नहीं हो\n पाती।लेकिन जब वसंत ऋतु आती है तो कोयल की मधुर आवाज़ से दोनों का अंतर स्पष्ट हो जाता है.",
+        "GistGujrati" : "કાગડો અને કોયલનો રંગ સરખો છે. તેઓ બોલે ત્યાં સુધી તેઓ ઓળખાતા નથી\n પતિ. પણ જ્યારે વસંત આવે છે ત્યારે કોયલના મધુર અવાજથી બંને વચ્ચેનો તફાવત સ્પષ્ટ થઈ જાય છે."
+      },
+      {
+        "GistEnd" : "Rahim says that tears flow from the eyes and express the sorrow of the mind. the truth is\nThat the one who will be thrown out of the house will tell the secrets of the house to others.",
+        "GistHindi" : "रहीम कहते हैं की आंसू नयनों से बहकर मन का दुःख प्रकट कर देते हैं। सत्य ही है \nकि जिसे घर से निकाला जाएगा वह घर का भेद दूसरों से कह ही देगा.",
+        "GistGujrati" : "રહીમ કહે છે કે આંખોમાંથી આંસુ વહે છે અને મનનું દુ:ખ વ્યક્ત કરે છે. સત્ય છે\nકે જેને ઘરની બહાર ફેંકી દેવામાં આવશે તે ઘરના રહસ્યો બીજાને કહેશે."
+      }
+    ]
+  },
+
+  {
+    "NameEng" : "Tulsidas",
+    "NameHindi" : "तुलसीदास",
+    "NameGujrati" : "તુલસીદાસ",
+    "Image" : "",
+    "Dohe" : [
+      {
+        "DoheEng" : "'Tulsi' is a field, fear the farmer.\nSin and virtue are two seeds, the diagnosis is so lunai ॥",
+        "DoheHindi": "‘तुलसी’ काया खेत है, मनसा भयौ किसान। \nपाप-पुन्य दोउ बीज हैं, बुवै सो लुनै निदान॥",
+        "DoheGujrati" : "'તુલસી' એ ખેતર છે, ખેડૂતને ડરો.\nપાપ અને પુણ્ય બે બીજ છે, નિદાન તો લુણાઈ છે."
+      },
+      {
+        "DoheEng" : "Tulsi Mamta Ram Son, Samata Sab Sansaar.\nThere is no attachment, no anger, no blame, no sorrow, if you are a slave, may you cross.",
+        "DoheHindi": "तुलसी ममता राम सों, समता सब संसार। \nराग न रोष न दोष दुख, दास भए भव पार॥ ",
+        "DoheGujrati" : "તુલસી મમતા રામ પુત્ર, સમતા સબ સંસાર.\nકોઈ આસક્તિ નથી, ક્રોધ નથી, દોષ નથી, કોઈ દુ:ખ નથી, જો તમે દાસ છો, તો તમે પાર કરો."
+      },
+      {
+        "DoheEng" : "Tulsi barley on Ram, no easy affection.\nDon't turn your head, you will get dirty.",
+        "DoheHindi": "तुलसी जौं पै राम सों, नाहिन सहज सनेह। \nमूंड़ मुड़ायो बादिहीं, भाँड़ भयो तजि गेह॥ ",
+        "DoheGujrati" : "રામ પર તુલસી જવ, કોઈ સહેલો સ્નેહ.\nતમારું માથું ફેરવશો નહીં, તમે ગંદા થઈ જશો."
+      },
+      {
+        "DoheEng" : "Couple Ras Rasna Dasan, Family Body Sugeh.\nTulsi is in every interest except Sisu, property is easy affection.",
+        "DoheHindi": "दंपति रस रसना दसन, परिजन बदन सुगेह। \nतुलसी हर हित बरन सिसु, संपति सहज सनेह॥ ",
+        "DoheGujrati" : "યુગલ રાસ રસના દાસન, સંસાર દેહ સુગેહ.\nતુલસી સીસુ સિવાય દરેક હિતમાં છે, મિલકત સરળ સ્નેહ છે."
+      },
+      {
+        "DoheEng" : "Tulsi Parihari Hari Hari, Power worshiped ghost.\nThere will be trouble in the end, the son of Ganika ॥",
+        "DoheHindi": "तुलसी परिहरि हरि हरहि, पाँवर पूजहिं भूत। \nअंत फजीहत होहिंगे, गनिका के से पूत॥ ",
+        "DoheGujrati" : "તુલસી પરિહરિ હરિ હરિ, પાવર પૂજ્યો ભૂત.\nઅંતે મુશ્કેલી આવશે, ગણિકાનો પુત્ર ॥"
+      },
+      {
+        "DoheEng" : "'Tulsi' is the companion of adversity, Vidya, Vinay, Vivek.\nCourage, kindness, truthfulness-fasting, Ram-Bharoso one ॥",
+        "DoheHindi": "‘तुलसी’ साथी विपति के, विद्या, विनय, विवेक। \nसाहस, सुकृत, सुसत्य-व्रत, राम-भरोसो एक॥ ",
+        "DoheGujrati" : "'તુલસી' પ્રતિકૂળતા, વિદ્યા, વિનય, વિવેકની સાથી છે.\nહિંમત, દયા, સત્યતા-ઉપવાસ, રામ-ભરોસો એક."
+      },
+      {
+        "DoheEng" : "Raghupati Keerati Kamini, why say Tulsidasu.\nSarad Akas Prakas Sasi, Four Chibuk Til Jasu ॥",
+        "DoheHindi": "रघुपति कीरति कामिनी, क्यों कहै तुलसीदासु। \nसरद अकास प्रकास ससि, चार चिबुक तिल जासु॥ ",
+        "DoheGujrati" : "રઘુપતિ કીરતિ કામિની, કેમ કહે તુલસીદાસુ.\nસારદ આકાશ પ્રકાશ સસિ, ચાર ચિબુક તિલ જાસુ ॥"
+      },
+      {
+        "DoheEng" : "Amiya Gari Gareu Girl, Nari Kari Kartar.\nThe birth era of love and enmity, Janhi Budh na gavar ॥",
+        "DoheHindi": "अमिय गारि गारेउ गरल, नारी करि करतार। \nप्रेम बैर की जननि युग, जानहिं बुध न गँवार॥ ",
+        "DoheGujrati" : "અમિયા ગારી ગેરુ છોકરી, નારી કરી કરતાર.\nપ્રેમ અને દુશ્મનીનો જન્મ યુગ, જાન્હી બુધ ના ગવાર."
+      },
+      {
+        "DoheEng" : "Ram Bharoso Ram Bal, Ram Naam Biswas.\nSumirat Subh Mangal Kusal, Mangat Tulsidas ॥",
+        "DoheHindi": "राम भरोसो राम बल, राम नाम बिस्वास। \nसुमिरत सुभ मंगल कुसल, मांगत तुलसीदास॥ ",
+        "DoheGujrati" : "રામ ભરોસો રામ બલ, રામ નામ વિશ્વાસ.\nસુમિરત સુભ મંગલ કુસલ, મંગત તુલસીદાસ ॥"
+      },
+      {
+        "DoheEng" : "Ramhi sumirat ran bhirat, det parat guru paayen.\nTulsi which does not thin out, the world goes to life.",
+        "DoheHindi": "रामहि सुमिरत रन भिरत, देत परत गुरु पायँ। \nतुलसी जिन्हहि न पुलक तनु, ते जग जीवत जाएँ॥ ",
+        "DoheGujrati" : "રામહી સુમિરત રન ભરત, દેત પરત ગુરુ પાયેં.\nતુલસી જે પાતળી ન થાય, સંસાર જાય જીવ."
+      }
+
+    ],
+    "Gist" : [
+      {
+        "GistEnd" : "Goswami ji says that the body is like a field, the mind is like a farmer.\nIn which this farmer sows two types of seeds in the form of sin and virtue.\n As one sows the seed, so will one reap the fruits in the end. the quote is\n That if a man does good deeds, he will get auspicious results and if he does bad deeds, he will also get bad results.",
+        "GistHindi" : "गोस्वामी जी कहते हैं कि शरीर मानो खेत है, मन मानो किसान है। \nजिसमें यह किसान पाप और पुण्य रूपी दो प्रकार के बीजों को बोता है।\n जैसे बीज बोएगा वैसे ही इसे अंत में फल काटने को मिलेंगे। भाव यह है\n कि यदि मनुष्य शुभ कर्म करेगा तो उसे शुभ फल मिलेंगे और यदि पाप कर्म करेगा तो उसका फल भी बुरा ही मिलेगा।",
+        "GistGujrati" : "ગોસ્વામીજી કહે છે કે શરીર ખેતર જેવું છે, મન ખેડૂત જેવું છે.\nજેમાં આ ખેડૂત પાપ અને પુણ્ય એમ બે પ્રકારના બીજ વાવે છે.\n જેમ વ્યક્તિ બીજ વાવે છે, તેમ અંતમાં ફળ લણશે. અવતરણ છે\n કે જો માણસ સારા કર્મો કરે છે તો તેને શુભ ફળ મળે છે અને જો તે ખરાબ કર્મો કરે છે તો તેને ખરાબ ફળ પણ મળે છે."
+      },
+      {
+        "GistEnd" : "Tulsi says that those who have love in Shri Ram and equality in the whole world,\n Those who do not have attachment, hatred, blame and sorrow towards anyone,\n May such devotees of Shri Ram have crossed the ocean.",
+        "GistHindi" : "तुलसी कहते हैं कि जिनकी श्री राम में ममता और सब संसार में समता है,\n जिनका किसी के प्रति राग, द्वेष, दोष और दुःख का भाव नहीं है,\n श्री राम के ऐसे भक्त भव सागर से पार हो चुके हैं।",
+        "GistGujrati" : "તુલસી કહે છે કે જેઓ શ્રી રામમાં પ્રેમ અને સમસ્ત વિશ્વમાં સમાનતા ધરાવે છે.\n જેમના મનમાં કોઈના પ્રત્યે આસક્તિ, દ્વેષ, દોષ અને દુ:ખ નથી,\n શ્રી રામના આવા ભક્તો સાગર પાર કરે."
+      },
+      {
+        "GistEnd" : "Tulsi says that if there is no natural love for Shri Ramchandra ji\nThen, in vain, he shaved his head, became a saint and left home to become a devil (a pretense of quietness).",
+        "GistHindi" : "तुलसी कहते हैं कि यदि श्री रामचंद्र जी से स्वाभाविक प्रेम नहीं है \nतो फिर वृथा ही मूंड मुंडाया, साधु हुए और घर छोडकर भाँड़ बने (वैराग्य का स्वांग भरा)।",
+        "GistGujrati" : "તુલસી કહે છે કે જો શ્રી રામચંદ્રજી માટે સ્વાભાવિક પ્રેમ ન હોય\nપછી, નિરર્થક, તેણે તેનું માથું મુંડન કર્યું, સંત બન્યો અને શેતાન (શાંતિનો ઢોંગ) બનવા માટે ઘર છોડી દીધું."
+      },
+      {
+        "GistEnd" : "Tulsi says that rasa and rasna are husband and wife, teeth are family, mouth is a beautiful house,\n Shri Mahadev ji's beloved 'R' and 'M' these two letters are two lovely children and spontaneous affection is the only asset.",
+        "GistHindi" : "तुलसी कहते हैं कि रस और रसना पति-पत्नी है, दाँत कुटुंबी हैं, मुख सुंदर घर है,\n श्री महादेव जी के प्यारे 'र' और 'म' ये दोनों अक्षर दो मनोहर बालक हैं और सहज स्नेह ही संपत्ति हैं।",
+        "GistGujrati" : "તુલસી કહે છે કે રસ અને રસ પતિ-પત્ની છે, દાંત કુટુંબ છે, મોં એ સુંદર ઘર છે,\n શ્રી મહાદેવજીના પ્રિય 'ર' અને 'મ' આ બે અક્ષરો બે સુંદર બાળકો છે અને સ્વયંસ્ફુરિત સ્નેહ એ જ સંપત્તિ છે."
+      },
+      {
+        "GistEnd" : "Tulsi says that except Shri Hari (Lord Vishnu) and Shri Shankar ji who worships palmar ghosts,\n Like the sons of a prostitute, they will have a great plight in the end.",
+        "GistHindi" : "तुलसी कहते हैं कि श्री हरि (भगवान् विष्णु) और श्री शंकर जी को छोड़कर जो पामर भूतों की पूजा करते हैं,\n वेश्या के पुत्रों की तरह उनकी अंत में बड़ी दुर्दशा होगी।",
+        "GistGujrati" : "તુલસી કહે છે કે શ્રી હરિ (ભગવાન વિષ્ણુ) અને શ્રી શંકરજી સિવાય જેઓ પામર ભૂતોની પૂજા કરે છે,\n વેશ્યાના પુત્રોની જેમ, તેઓની પણ અંતમાં મોટી દુર્દશા થશે."
+      },
+      {
+        "GistEnd" : "Goswami ji says that learning, humility, knowledge, enthusiasm, virtue and\n Truthful speech etc. the qualities that support in adversity can be obtained only by the trust of Lord Ram.",
+        "GistHindi" : "गोस्वामी जी कहते हैं कि विद्या, विनय, ज्ञान, उत्साह, पुण्य और\n सत्य भाषण आदि विपत्ति में साथ देने वाले गुण एक भगवान् राम के भरोसे से ही प्राप्त हो सकते हैं।",
+        "GistGujrati" : "ગોસ્વામીજી કહે છે કે વિદ્યા, નમ્રતા, જ્ઞાન, ઉત્સાહ, સદાચાર અને\n સત્ય વાણી વગેરે ગુણો જે પ્રતિકૂળતામાં સાથ આપે છે તે ભગવાન રામના ભરોસે જ મેળવી શકાય છે."
+      },
+      {
+        "GistEnd" : "How can Tulsidas describe Kamini, the fame of Shri Raghunath ji?\nThe moon that appears in the sky of Sharatpurnima is like a mole on the chin of that Kirti-Kamini.",
+        "GistHindi" : "श्री रघुनाथ जी की कीर्तिरूपी कामिनी का तुलसीदास कैसे बखान कर सकता है? \nशरत्पूर्णिमा के आकाश में प्रकाशित होने वाला चंद्रमा मानो उस कीर्ति-कामिनी की ठुड्डी का तिल है।",
+        "GistGujrati" : "તુલસીદાસ કામિની, શ્રી રઘુનાથજીની કીર્તિનું વર્ણન કેવી રીતે કરી શકે?\nશરતપૂર્ણિમાના આકાશમાં દેખાતો ચંદ્ર એ કીર્તિ-કામિનીની રામરામ પરના છછુંદર જેવો છે."
+      },
+      {
+        "GistEnd" : "God has created a woman by mixing both nectar and love. Woman is the mother of both enmity and love,\n Wise men know this but the illiterate do not.",
+        "GistHindi" : "भगवान् ने स्त्री को अमृत और प्रेम दोनों में सानकर बनाया है। स्त्री वैर और प्रेम दोनों की जननी है,\n इस बात को बुद्धिमान् पुरुष जानते हैं किंतु गँवार नहीं।",
+        "GistGujrati" : "ભગવાને અમૃત અને પ્રેમ બંનેનું મિશ્રણ કરીને સ્ત્રીનું સર્જન કર્યું છે. સ્ત્રી દુશ્મની અને પ્રેમ બંનેની માતા છે,\n જ્ઞાનીઓ આ જાણે છે પણ અભણ નથી જાણતા."
+      },
+      {
+        "GistEnd" : "Tulsidas ji only asks that I should have only faith in Ram, only Ram should be strong and\n Have faith only in the name of Ram, whose mere remembrance brings auspicious, auspicious and efficient results.",
+        "GistHindi" : "तुलसीदास जी यही माँगते हैं कि मेरा एक मात्र राम पर ही भरोसा रहे, राम ही का बल रहे और\n जिसके स्मरण मात्र ही से शुभ, मंगल और कुशल की प्राप्ति होती है, उस राम नाम में ही विश्वास रहे।",
+        "GistGujrati" : "તુલસીદાસ જી માત્ર એટલું જ પૂછે છે કે મારે માત્ર રામમાં શ્રદ્ધા હોવી જોઈએ, માત્ર રામ જ મજબૂત હોવા જોઈએ અને\n રામના નામમાં જ શ્રદ્ધા રાખો, જેનું કેવળ સ્મરણ કરવાથી શુભ, શુભ અને કાર્યક્ષમ પરિણામ મળે છે."
+      },
+      {
+        "GistEnd" : "At the time of remembering Lord Shri Ram, at the time of fighting the enemy in the religious war, at the time of giving charity and\n Those whose body does not feel thrill due to special joy while saluting at the feet of Sri Guru, they live in vain in the world.",
+        "GistHindi" : "भगवान् श्रीराम का स्मरण होने के समय, धर्मयुद्ध में शत्रु से भिड़ने के समय, दान देते समय और\n श्री गुरु के चरणों में प्रणाम करते समय जिनके शरीर में विशेष हर्ष के कारण रोमांच नहीं होता, वे जगत में व्यर्थ ही जीते हैं।",
+        "GistGujrati" : "ભગવાન શ્રી રામનું સ્મરણ કરતી વખતે, ધાર્મિક યુદ્ધમાં શત્રુ સામે લડતી વખતે, દાન આપતી વખતે અને\n શ્રીગુરુના ચરણોમાં નમસ્કાર કરતી વખતે જેનું શરીર વિશેષ આનંદને કારણે રોમાંચ અનુભવતું નથી, તેઓ સંસારમાં વ્યર્થ જીવન જીવે છે."
+      }
+    ]
+  },
+
+  {
+    "NameEng" : "Surdas",
+    "NameHindi" : "सूरदास",
+    "NameGujrati" : "સૂરદાસ",
+    "Image" : "",
+    "Dohe" : [
+      {
+        "DoheEng" : "The one who does not live in shame, where should I say hundred times.\nDon't worship Hari even in one point, you are sixty 'sur' illiterate ॥",
+        "DoheHindi": "जो पै जिय लज्जा नहीं, कहा कहौं सौ बार। \nएकहु अंक न हरि भजे, रे सठ ‘सूर’ गँवार॥ ",
+        "DoheGujrati" : "જે શરમમાં ન રહે, તેને હું ક્યાં સો વાર કહું.\nએક બિંદુમાં પણ હરિની પૂજા ન કરો, તમે સાઠ 'સુર' અભણ છો."
+      },
+      {
+        "DoheEng" : "Listen to the supreme beloved of love, chatak chitvati pari.\nStrong hope endures all sorrows, there is no end.",
+        "DoheHindi": "सुनि परमित पिय प्रेम की, चातक चितवति पारि। \nघन आशा सब दुख सहै, अंत न याँचै वारि॥ ",
+        "DoheGujrati" : "સાંભળો પરમ પ્યારું પ્રેમ, ચાતક ચિત્તવતિ પરી.\nમજબૂત આશા બધા દુ:ખ સહન કરે છે, તેનો કોઈ અંત નથી."
+      },
+      {
+        "DoheEng" : "Always sniff yourself, live life.\nSo you forget easily, Hari Ishwar Bhagwan.",
+        "DoheHindi": "सदा सूँघती आपनो, जिय को जीवन प्रान। \nसो तू बिसर्यो सहज ही, हरि ईश्वर भगवान्॥ ",
+        "DoheGujrati" : "હંમેશા તમારી જાતને સુંઘો, જીવન જીવો.\nતેથી તમે સરળતાથી ભૂલી જાઓ, હરિ ઈશ્વર ભગવાન."
+      },
+      {
+        "DoheEng" : "Tell me where to move, like this Kumati Kumich.\nForgetting for the sake of Hari, the desire for happiness is low.",
+        "DoheHindi": "कह जानो कहँवा मुवो, ऐसे कुमति कुमीच। \nहरि सों हेत बिसारिके, सुख चाहत है नीच॥ ",
+        "DoheGujrati" : "કહો ક્યાં ખસવું, આ કુમતિ કુમિચ જેવી.\nહરિને ખાતર ભૂલીને, સુખની ઈચ્છા નીચી."
+      },
+      {
+        "DoheEng" : "Deepak Pir didn't know, Pavak layer kite.\nTanu toh thihi jwala jarayo, chit na bhayo ras bhang ॥",
+        "DoheHindi": "दीपक पीर न जानई, पावक परत पतंग। \nतनु तो तिहि ज्वाला जरयो, चित न भयो रस भंग॥ ",
+        "DoheGujrati" : "દીપક પીરને ખબર ન પડી, પાવક લેયર પતંગ.\nતનુ તો થીહિ જ્વાલા જરાયો, ચિત ના ભયો રાસ ભાંગ ॥"
+      },
+      {
+        "DoheEng" : "Pisces could not tolerate separation, water did not ask.\nLook at your speed, the body does not decrease in the night.",
+        "DoheHindi": "मीन वियोग न सहि सकै, नीर न पूछै बात। \n\nदेखि जु तू ताकी गतिहि, रति न घटै तन जात॥ ",
+        "DoheGujrati" : "મીન જુદાઈ સહન ન કરી શક્યો, પાણી પૂછ્યું નહીં.\nતમારી ગતિ જુઓ, રાત્રે શરીર ઘટતું નથી."
+      },
+      {
+        "DoheEng" : "Prabhu Puran Pavan Sakha, Prananahu Ko Nath.\nThe most kind and merciful Lord, life is gone ॥",
+        "DoheHindi": "प्रभु पूरन पावन सखा, प्राणनहू को नाथ। \nपरम दयालु कृपालु प्रभु, जीवन जाके हाथ॥ ",
+        "DoheGujrati" : "પ્રભુ પુરન પાવન સખા, પ્રાણનહુ કો નાથ.\nપરમ દયાળુ અને દયાળુ પ્રભુ, જીવન જતું રહ્યું."
+      },
+      {
+        "DoheEng" : "The root from which you made conscious, created the law of virtues.\nGave nails by rubbing feet, eyes, nose and ears.",
+        "DoheHindi": "जिन जड़ ते चेतन कियो, रचि गुण तत्व विधान। \nचरन चिकुर कर नख दिए, नयन नासिका कान॥ ",
+        "DoheGujrati" : "જે મૂળમાંથી તમે ચેતન બનાવ્યું, તે સદ્ગુણોનો નિયમ બનાવ્યો.\nપગ, આંખ, નાક અને કાન ઘસીને નખ આપ્યા."
+      },
+      {
+        "DoheEng" : "Asan basan bahu bidhi daye, ausar-ausar aani.\nMother father and brother met, new interest was identified.",
+        "DoheHindi": "असन बसन बहु बिधि दये, औसर-औसर आनि। \nमात पिता भैया मिले, नई रुचहि पहिचानि॥ ",
+        "DoheGujrati" : "આસન બસન બહુ બિધિ દયે, ઔસર-ઔસર આની.\nમાતા પિતા અને ભાઈ મળ્યા, નવો રસ ઓળખાયો."
+      },
+      {
+        "DoheEng" : "See what the lotus is doing, how many water it is for.\nPrana tajyo love na tajyo, along with dryness ॥",
+        "DoheHindi": "देखो करनी कमल की, कीनों जल सों हेत। \nप्राण तज्यो प्रेम न तज्यो, सूख्यो सरहिं समेत॥ ",
+        "DoheGujrati" : "જુઓ કમળ શું કરે છે, કેટલા પાણી માટે છે.\nપ્રાણ તજ્યો પ્રેમ ના તજ્યો, સાથે શુષ્કતા."
+      }
+
+    ],
+    "Gist" : [
+      {
+        "GistEnd" : "Surdas ji says that you illiterate rascal, if you do not have shame in your heart,\n So what should I tell you hundred times because you did not worship God even once.",
+        "GistHindi" : "सूरदास जी कहते हैं कि हे गँवार दुष्ट, अगर तुझे अपने दिल में शर्म नहीं है,\n तो मैं तुझे सौ बार क्या कहूँ क्योंकि तूने तो एक बार भी भगवान् का भजन नहीं किया।",
+        "GistGujrati" : "સુરદાસજી કહે છે કે તું અભણ લુચ્ચો, તારા દિલમાં શરમ ન હોય તો.\n તો હું તને સો વખત શું કહું કારણ કે તેં એક પણ વાર ભગવાનની પૂજા નથી કરી."
+      },
+      {
+        "GistEnd" : "Knowing or listening to the importance of the beloved's love or result, Papiha keeps on looking towards the cloud.\n With the hope of the same cloud, he suffers all the sorrows, but does not pray for water even till his death.\n True love never demands or wants anything from its lover.",
+        "GistHindi" : "प्रिय के प्रेम के या परिणाम की महत्ता को जानकर या सुनकर पपीहा बादल की ओर निरंतर देखता रहता है।\n उसी मेघ की आशा से सब दु:ख सहता है पर मरते दम तक भी पानी के लिए प्रार्थना नहीं करता।\n सच्चा प्रेम अपने प्रेमी से कभी कुछ नहीं माँगता या चाहता।",
+        "GistGujrati" : "પ્રિયતમના પ્રેમનું મહત્વ કે પરિણામ જાણીને કે સાંભળીને પપીહા વાદળ તરફ જોતી જ રહે છે.\n એ જ મેઘની આશાથી તે બધાં દુ:ખ સહન કરે છે, પણ મરતાં સુધી પાણી માટે પ્રાર્થના કરતો નથી.\n સાચો પ્રેમ ક્યારેય તેના પ્રેમી પાસેથી કંઈ માંગતો નથી કે માંગતો નથી."
+      },
+      {
+        "GistEnd" : "जो ईश्वर सदा अपने साथ रहने वाला है, प्राणों का भी प्राण है,\n उस प्रभू को तूने अनायास ही बातों ही बातों में भुला दिया है।",
+        "GistHindi" : "जो ईश्वर सदा अपने साथ रहने वाला है, प्राणों का भी प्राण है,\n उस प्रभू को तूने अनायास ही बातों ही बातों में भुला दिया है।",
+        "GistGujrati" : "ભગવાન જે હંમેશા તેની સાથે છે, તે આત્માનો આત્મા છે,\n તમે કારણ વગર દરેક વસ્તુમાં એ પ્રભુને ભૂલી ગયા છો."
+      },
+      {
+        "GistEnd" : "Don't know what kind of wicked mind this man is, and don't know where\n One who wants happiness except love or devotion to God will die a bad death.",
+        "GistHindi" : "यह मनुष्य जाने कैसा दुष्ट बुद्धि वाला है, और न जाने कहाँ कैसी\n बुरी मौत मरेगा जो यह भगवान् से प्रेम या भक्ति को छोड़कर भी सुख चाहता है।",
+        "GistGujrati" : "આ માણસ કેવા દુષ્ટ મનનો છે તે ખબર નથી, અને ક્યાં છે તે ખબર નથી\n જેને પ્રેમ કે ઈશ્વરની ભક્તિ સિવાય સુખ જોઈએ છે તે ખરાબ મૃત્યુ પામે છે."
+      },
+      {
+        "GistEnd" : "The moth burns to ashes in the flame of the lamp, but the lamp does not know its pain.\n The body of the kite gets burnt in the flame of the lamp but its love does not get destroyed.",
+        "GistHindi" : "पतंगा दिये की लौ पर जलकर भस्म हो जाता है पर दीपक इसकी पीड़ा को नहीं जानता।\n पतंग का शरीर तो दीपक की ज्वाला में जलकर भस्म हो जाता है पर इसका प्रेम नष्ट नहीं होता।",
+        "GistGujrati" : "દીવાની જ્યોતમાં જીવાત બળીને રાખ થઈ જાય છે, પણ દીવાને તેની પીડા ખબર નથી.\n દીવાની જ્યોતમાં પતંગનું શરીર બળી જાય છે પણ તેનો પ્રેમ નાશ પામતો નથી."
+      },
+      {
+        "GistEnd" : "Even if the water does not even ask about the fish, still the fish cannot bear the separation from the water.\nIf you look at the unique movement of the fish's love, its body goes away.\n Even then his love for water does not diminish even an iota.",
+        "GistHindi" : "चाहे पानी मछली की बात भी नहीं पूछता फिर भी मछली तो पानी का वियोग नहीं सह सकती। \nतुम मछली के प्रेम की निराली गति को देखो कि इसका शरीर चला जाता है तो\n भी उसका पानी के प्रति प्रेम रत्ती-भर भी कम नहीं होता।",
+        "GistGujrati" : "પાણી ભલે માછલીને પૂછતું ન હોય, છતાં પણ માછલી પાણીથી અલગ થવું સહન કરી શકતી નથી.\nમાછલીના પ્રેમની અનોખી હિલચાલ જુઓ તો તેનું શરીર નીકળી જાય છે.\n તો પણ તેનો પાણી પ્રત્યેનો પ્રેમ એક અંશ પણ ઓછો થતો નથી."
+      },
+      {
+        "GistEnd" : "He is the perfect Lord, the holy friend, the master of all souls.\nHe is very kind and the life of all beings is in his hands.",
+        "GistHindi" : "वह प्रभु परिपूर्ण है, पवित्र मित्र है, प्राणों का स्वामी है। \nअत्यंत दयालु है और सभी प्राणियों का जीवन उसी के हाथ में है।",
+        "GistGujrati" : "તે સંપૂર્ણ ભગવાન છે, પવિત્ર મિત્ર છે, તમામ આત્માઓના માલિક છે.\nતે ખૂબ જ દયાળુ છે અને તમામ જીવોનું જીવન તેના હાથમાં છે."
+      },
+      {
+        "GistEnd" : "The God who created Satva, Raja, Tama-these three qualities and earth, water, fire, air\nAnd the sky-with the help of these five elements made the root conscious and hands, feet,\n Gave eyes, nose, hair and nails (It is very sad that man does not remember his qualities).",
+        "GistHindi" : "जिस ईश्वर ने सत्व, रज, तम—इन तीन गुणों तथा पृथ्वी, जल, तेज, वायु \nऔर आकाश—इन पाँच तत्वों के द्वारा जड़ से चेतन बना दिया और हाथ, पाँव,\n आँख, नाक, बाल और नाखून दिए (बड़े दु:ख की बात है मनुष्य उसके गुणों का स्मरण नहीं करता)।",
+        "GistGujrati" : "સત્વ, રજ, તમ-આ ત્રણ ગુણો અને પૃથ્વી, જળ, અગ્નિ, વાયુની રચના કરનાર ભગવાન\nઅને આકાશે-આ પાંચ તત્વોની મદદથી મૂળને ચેતન બનાવ્યું અને હાથ, પગ,\n આંખો, નાક, વાળ અને નખ આપ્યા (તે ખૂબ જ દુઃખની વાત છે કે માણસ તેના ગુણોને યાદ રાખતો નથી)."
+      },
+      {
+        "GistEnd" : "C God brought many types of food and clothes from time to time. And\n Along with this, bring your loved ones like mother, father, brother etc. with new identities and join them.",
+        "GistHindi"  : "सी ईश्वर ने अनेक प्रकार के भोजन वस्त्रादि समय-समय पर लाकर दिए। और\n साथ ही नई-नई पहचान वाले माता, पिता, भाई आदि प्रियजन भी लाकर मिलाए।",
+        "GistGujrati" : "સી ભગવાન સમયાંતરે અનેક પ્રકારના ખોરાક અને વસ્ત્રો લાવ્યા. અને\n આ સાથે તમારા પ્રિયજનો જેમ કે માતા, પિતા, ભાઈ વગેરેને નવી ઓળખ સાથે લાવો અને તેમની સાથે જોડાઓ."
+      },
+      {
+        "GistEnd" : "Look at this great deed of lotus that when he loved water, he gave up his life.\n But did not leave love. Even the lotus dried up with the water.Look at this great deed of lotus that when he loved water, he gave up his life.\n But did not leave love. Even the lotus dried up with the water.",
+        "GistHindi" : "कमल के इस महान् कार्य को देखो कि उसने जल से प्रेम किया था तो प्राण दे दिए,\n पर प्रेम को नहीं छोड़ा। यहाँ तक कि पानी के साथ कमल भी सूख गया।",
+        "GistGujrati" : "કમળનું આ મહાન કાર્ય જુઓ કે જ્યારે તેને પાણી પ્રિય હતું ત્યારે તેણે પોતાનો જીવ આપી દીધો હતો.\n પણ પ્રેમ છોડ્યો નહિ. કમળ પણ પાણી સાથે સુકાઈ ગયું."
+      }
+    ]
+  }
+
+]
