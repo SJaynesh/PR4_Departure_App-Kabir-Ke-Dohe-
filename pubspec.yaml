@@ -49,6 +49,7 @@ dev_dependencies:
   google_fonts:
   carousel_slider:
   provider:
+  shared_preferences:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

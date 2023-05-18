@@ -4,6 +4,7 @@ import 'package:departure_code/Controllers/CarousalSlider_Provider.dart';
 import 'package:departure_code/Controllers/JsonData_Provider.dart';
 import 'package:flutter/material.dart';
 
+import '../../Controllers/Lang_Provider.dart';
 import '../../Utills/All_Atributes.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:provider/provider.dart';
@@ -54,7 +55,6 @@ class _HomePageState extends State<HomePage> {
                     ),
                     borderRadius: BorderRadius.only(
                       bottomRight: Radius.circular(h * 0.2),
-                      bottomLeft: Radius.circular(w * 0.22),
                     ),
                   ),
                 ),
@@ -66,7 +66,6 @@ class _HomePageState extends State<HomePage> {
                     style: TextStyle(
                       fontSize: h * 0.065,
                       fontWeight: FontWeight.bold,
-                      color: Colors.black,
                     ),
                   ),
                 ),
@@ -78,7 +77,6 @@ class _HomePageState extends State<HomePage> {
                     style: TextStyle(
                       fontSize: h * 0.035,
                       fontWeight: FontWeight.w600,
-                      color: Colors.black,
                     ),
                   ),
                 ),
@@ -90,7 +88,6 @@ class _HomePageState extends State<HomePage> {
                     style: TextStyle(
                       fontSize: h * 0.06,
                       fontWeight: FontWeight.bold,
-                      color: Colors.black,
                     ),
                   ),
                 ),
@@ -119,10 +116,13 @@ class _HomePageState extends State<HomePage> {
               onTap: () {
                 Navigator.of(context).pushNamed("DohePage",
                     arguments:
-                        Provider.of<JsonData_Provider>(context,listen: false).js1.MonkList[
-                            Provider.of<CarousalSlider_Provider>(context,listen: false)
-                                .cm1
-                                .index!]);
+                        Provider.of<JsonData_Provider>(context, listen: false)
+                            .js1
+                            .MonkList[Provider.of<CarousalSlider_Provider>(
+                                context,
+                                listen: false)
+                            .cm1
+                            .index!]);
               },
               child: CarouselSlider(
                 options: CarouselOptions(
@@ -142,15 +142,17 @@ class _HomePageState extends State<HomePage> {
                 items: Provider.of<JsonData_Provider>(context)
                     .js1
                     .MonkList
-                    .map((e) => Container(
-                          decoration: BoxDecoration(
-                            image: DecorationImage(
-                              image: AssetImage(e.Image),
-                              fit: BoxFit.cover,
-                            ),
-                            borderRadius: BorderRadius.circular(24),
+                    .map(
+                      (e) => Container(
+                        decoration: BoxDecoration(
+                          image: DecorationImage(
+                            image: AssetImage(e.Image),
+                            fit: BoxFit.cover,
                           ),
-                        ))
+                          borderRadius: BorderRadius.circular(24),
+                        ),
+                      ),
+                    )
                     .toList(),
               ),
             ),
@@ -158,20 +160,40 @@ class _HomePageState extends State<HomePage> {
               height: h * 0.02,
             ),
             (Provider.of<CarousalSlider_Provider>(context).cm1.index != null)
-                ? Text(
-                    "${Provider.of<JsonData_Provider>(context).js1.MonkList[Provider.of<CarousalSlider_Provider>(context).cm1.index!].NameHindi}",
-                    style: GoogleFonts.poppins(
-                      textStyle: TextStyle(
-                        fontSize: h * 0.025,
-                        fontWeight: FontWeight.bold,
-                        color: Colors.black,
-                      ),
-                    ),
-                  )
+                ? (Provider.of<Lang_Provider>(context).l1.isIndex == 1)
+                    ? Text(
+                        "${Provider.of<JsonData_Provider>(context).js1.MonkList[Provider.of<CarousalSlider_Provider>(context).cm1.index!].NameHindi}",
+                        style: GoogleFonts.poppins(
+                          textStyle: TextStyle(
+                            fontSize: h * 0.025,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      )
+                    : (Provider.of<Lang_Provider>(context).l1.isIndex == 2)
+                        ? Text(
+                            "${Provider.of<JsonData_Provider>(context).js1.MonkList[Provider.of<CarousalSlider_Provider>(context).cm1.index!].NameEng}",
+                            style: GoogleFonts.poppins(
+                              textStyle: TextStyle(
+                                fontSize: h * 0.025,
+                                fontWeight: FontWeight.bold,
+                              ),
+                            ),
+                          )
+                        : (Provider.of<Lang_Provider>(context).l1.isIndex == 3)
+                            ? Text(
+                                "${Provider.of<JsonData_Provider>(context).js1.MonkList[Provider.of<CarousalSlider_Provider>(context).cm1.index!].NameGujrati}",
+                                style: GoogleFonts.poppins(
+                                  textStyle: TextStyle(
+                                    fontSize: h * 0.025,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                              )
+                            : Text("")
                 : Text(""),
           ],
         ),
-        backgroundColor: Colors.white,
       ),
     );
   }
