@@ -81,25 +81,58 @@ making the app inclusive and accessible to a wider audience.
 ### --: Video :--
 
 
+https://github.com/SJaynesh/PR4_departure_app/assets/115562979/de5a45b3-c4d5-4959-a0ab-c50c96c129df
+
+
 ### --: Photos :--
 
 <p>
-  <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/cf2def6f-744c-4015-a4f5-2a680f51c87f.png" width=22% height=35% >
+  <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/2a78cb1c-96c2-4b32-92d1-724e5291a7e7.png" width=22% height=35% >
   
-  <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/2f7449a7-b2f8-4bb1-8d4d-ca0f33d39f10.png" width=22% height=35% >
+  <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/871f09b8-d4ab-44fb-a78a-b264e3419b37.png" width=22% height=35% >
  
- <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/6a4a4b7d-5d7c-4e22-9d33-2c8a881eb0a8.png" width=22% height=35% >
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/589fc74f-c77f-4112-8cf0-90df1549aa5a.png" width=22% height=35% >
  
- <img  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/2fbb3d57-89e7-4537-b828-0084918c5bd5.png" width=22% height=35% >
+ <img  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/aa89c507-7303-414d-ad3c-eb4f2728d406.png" width=22% height=35% >
   </P>
   
   <P>
- <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/7ad9b06c-b6b8-4e5b-be21-c37e52010b43.png" width=22% height=35% >
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/7232fb5b-5f01-48cc-9d86-7a3d3fa2de9a.png" width=22% height=35% >
  
- <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/787c6160-73e1-4a0c-93db-5b281163d793.png" width=22% height=35% >
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/d5e3689f-9eae-4bd9-b9ef-40feca5f9481.png" width=22% height=35% >
  
- <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/47332879-9b28-4b9e-a60c-2b8f61455ca8.png" width=22% height=35% >
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/980419c1-f2a6-4972-8b74-10880ac87752.png" width=22% height=35% >
  
- <img  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/5aa1aab6-f942-4b2c-a636-9bfaa84a7855.png" width=22% height=35% >
+ <img  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/ea068eda-9d58-4fbd-895a-7bb54e5b5d34.png" width=22% height=35% >
+  </P>
+  
+   <P>
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/9abf53db-42b4-4452-8c6d-62068ca81cc0.png" width=22% height=35% >
+ 
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/77d144f0-c636-4f3e-a534-9569bc0263a9.png" width=22% height=35% >
+ 
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/b061a86c-b3f5-46a2-b9cb-31a442077d94.png" width=22% height=35% >
+ 
+ <img  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/4d9e8b7b-ec40-4dce-83f8-d0b92f80296b.png" width=22% height=35% >
+  </P>
+  
+   <P>
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/f26738f1-aac4-4484-b51f-6a6035457503.png" width=22% height=35% >
+ 
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/02d695b9-c14d-4e67-b738-079573460d67.png" width=22% height=35% >
+ 
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/f7d84f6a-3d7b-4e0c-8892-f54dd4f65547.png" width=22% height=35% >
+ 
+ <img  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/535273ea-fe7f-4963-a06d-35c1c99ec081.png" width=22% height=35% >
+  </P>
+  
+   <P>
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/a2870455-36c8-4381-99af-57192c576813.png" width=22% height=35% >
+ 
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/50b8d07d-f7be-489c-8ffe-165d64e4b771.png" width=22% height=35% >
+ 
+ <img align = "left"  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/d728d87b-1ca1-4c03-a08d-dc748b9c0159.png" width=22% height=35% >
+ 
+ <img  src = "https://github.com/SJaynesh/PR4_departure_app/assets/115562979/ee493da8-9434-43fd-838e-3558dc847ca7.png" width=22% height=35% >
   </P>
  
