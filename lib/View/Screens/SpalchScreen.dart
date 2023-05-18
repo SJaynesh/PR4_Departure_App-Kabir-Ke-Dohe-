@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:departure_code/Utills/All_Atributes.dart';
 import 'package:flutter/material.dart';
 
@@ -11,17 +13,23 @@ class SplachScreen extends StatefulWidget {
 class _SplachScreenState extends State<SplachScreen> {
   @override
   Widget build(BuildContext context) {
+    Timer(Duration(seconds: 5), () {
+      Navigator.of(context).pushNamedAndRemoveUntil("HomePage", (route) => false);
+    });
+    Size s = MediaQuery.of(context).size;
+    double h = s.height;
+
     return Scaffold(
       body: Container(
         alignment: Alignment.center,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset(imagePath + "kabirdas.png"),
+            Image.asset(monkImagePath + "kabirdas.png",height: h * 0.2),
           ],
         ),
       ),
-      backgroundColor: Colors.black26,
+      backgroundColor: Color(0xff011622),
     );
   }
 }
