@@ -23,7 +23,7 @@ explore and engage with this sacred text.
 ## Project Objectives :
 
 ### Local JSON Bank: 
-The app leverages local JSON storage to efficiently store and retrieve Bhagvat Geeta verses. This approach ensures quick access to the verses,
+The app leverages local JSON storage to efficiently store and retrieve Kabir Ke Dohe verses. This approach ensures quick access to the verses,
 even in offline mode,enabling seamless reading and study of the sacred text.
 
 ### Like Bhagvad Geeta's Verse: 
